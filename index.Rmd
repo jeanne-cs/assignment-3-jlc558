@@ -1,0 +1,14 @@
+---
+title: "Jeanne's 6100 Website"
+author: "Jeanne C"
+date: "3/4/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Built by [Jeanne Coffin-Schmitt](https://github.com/jeanne-cs) and [Janine Comrie](https://github.com/jmc749)
+  
+![These are some cute bats!](/Users/jeanne/github/DSCN9587.JPG)
