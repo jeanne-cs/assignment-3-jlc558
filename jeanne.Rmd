@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![This is Jeanne](/Users/jeanne/github/JLC_Moroto_Tufts_2018.JPG)
+![This is Jeanne](/Users/jeanne/Desktop/Photos_to_Use/JLC_Moroto_Tufts_2018.jpg)
 
 <br>
 
