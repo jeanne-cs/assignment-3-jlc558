@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-### Future Plans
+### Future Goals
 
 * I want to study and work in both environmental science and public health
   + One Health is the paradigm, baby
