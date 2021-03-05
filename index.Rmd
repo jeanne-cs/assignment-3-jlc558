@@ -19,7 +19,7 @@ Built by [Jeanne Coffin-Schmitt](https://github.com/jeanne-cs) and [Janine Comri
 
 <br>
 
-![These are some cute bats!](/Users/jeanne/Desktop/Photos_to_Use/DSCN9587.JPG)
+![These are some cute bats!](photos/DSCN9587.JPG)
 
 <br>
 
