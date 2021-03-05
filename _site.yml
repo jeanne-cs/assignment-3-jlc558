@@ -1,0 +1,16 @@
+name: "collaborative-website"
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Jeanne"
+      href: jeanne.html
+    - text: "Janine"
+      href: janine.html 
+output_dir: "."
+output:
+  html_document:
+    theme: paper
+    highlight: textmate
+    toc: true 
+    toc_float: true 

@@ -9,6 +9,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Collaborator Info
+
 Built by [Jeanne Coffin-Schmitt](https://github.com/jeanne-cs) and [Janine Comrie](https://github.com/jmc749)
-  
-![These are some cute bats!](/Users/jeanne/github/DSCN9587.JPG)
+
+# One Health
+
+![These are some cute bats! Bats and people interact a lot, and sometimes share pathogens. This also happens between humans and other animals we share space with or consume. Public health has always been dependent on our neighbors, but we often forget how diverse our neighbors really are. ](/Users/jeanne/github/DSCN9587.JPG)
