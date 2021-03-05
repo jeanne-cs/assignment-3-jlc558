@@ -1,4 +1,11 @@
 name: "collaborative-website"
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: tango
+    toc: true 
+    toc_float: true 
 navbar:
   left:
     - text: "Home"
@@ -7,10 +14,3 @@ navbar:
       href: jeanne.html
     - text: "Janine"
       href: janine.html 
-output_dir: "."
-output:
-  html_document:
-    theme: yeti
-    highlight: tango
-    toc: true 
-    toc_float: true 
